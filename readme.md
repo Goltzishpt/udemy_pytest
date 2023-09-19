@@ -1,3 +1,6 @@
+![Static Badge](https://img.shields.io/badge/python%203.11.4)
+
+
 # Project
 This project is a collection of sample tests using the Playwright
 library with the Pytest framework, which are written in Python and run
